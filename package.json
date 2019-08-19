@@ -1,0 +1,23 @@
+{
+  "name": "neomerics-user-crud",
+  "version": "1.0.0",
+  "description": "Task",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadammar3311/neomerics-user-crud.git"
+  },
+  "author": "Ahmad Ammar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadammar3311/neomerics-user-crud/issues"
+  },
+  "homepage": "https://github.com/ahmadammar3311/neomerics-user-crud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
